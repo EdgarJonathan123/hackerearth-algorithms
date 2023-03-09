@@ -1,0 +1,1 @@
+## Some hackerearth algorithm exercises
